@@ -1,0 +1,60 @@
+
+   .cursive {font-family: 'Playfair Display', serif;}
+   .cursive 2 {font-family: 'PT Serif', serif;}
+/* CSS Document */
+	body {margin:0; padding:0; font-size:12px; font-family:Arial, Helvetica, sans-serif; color:#767676}
+	
+	img {border:0;}
+	
+	a {color:#000; text-decoration:none;}
+	a:hover {text-decoration:underline}
+	
+	h1, h2, h3 {color:#5f95bb; font-weight:normal;}	
+	h1 {font-size:29px; margin:0 0 30px 0; padding-top:20px; }
+	
+	#header_wrap {background:url(../images/hero_gosh.png) no-repeat 58% -15px #dcd6c9; height:420px;}	
+	#header {background:url(../images/bg_nav.png); width:880px; margin:0 auto; overflow:hidden; height:165px;}
+	
+	#header #logo {float:left; padding:40px 0 0 40px;}
+	#header #nav {float:right; width:400px; padding:25px 0 0 0}
+	
+	#header ul {margin:5px 0 0 0; padding:0; list-style:none; font-weight:bold;}
+	#header li {float:left; width:145px; margin:-1px 45px 0 0;}
+	#header li a {color:#d5d3d2; text-decoration:none; padding:3px 0; border-bottom:1px solid #7f7c7c; border-top:1px solid #7f7c7c; display:block;}
+	#header li a:hover {color:#fff;}
+	
+	#content_wrap {width:880px; margin:0 auto; overflow:hidden; padding:20px 0 70px 0}
+	
+	#content {width:665px; float:right; line-height:18px; border-top:1px solid #ddd; margin:20px 0 0 0}
+	#intro {color:#999; border-bottom:1px solid #ddd; padding:15px 0 25px 0; font-size:27px; margin:0 0 30px 0; line-height:32px; font-style:italic; font-family: 'Playfair Display', serif; font-weight:400;}
+	#intro span {color:#000;}
+	
+	#left_col {float:left; width:175px; font-size:11px;}
+	#left_col img {padding:3px; border:1px solid #ddd; margin:10px 0; }
+	#left_col p {margin:0;}
+	#left_col h3 {margin:20px 0 6px 0; padding:4px 0 0 0; border-top:1px solid #ddd; font-size:13px; color:#5f95bb; font-weight:bold}
+	
+	.col {float:left; width:208px; margin-left:20px; font-size:12px; line-height:17px;}
+	.nomargin {margin-left:0;}
+	.col h2 {margin:0; color:#fff; border-radius:0 0 20px 0; font-weight:normal; padding:7px 5px; font-size:14px; position:absolute; margin:-65px 0 0 3px; width:110px; height:34px;}
+	.col h2 a {display:block; color:#fff;}
+	.col h2 a:hover {text-decoration:none;}
+	.col img {display:block; padding:3px; box-shadow:0 0 2px #888}
+	.col a:hover img {border-color:#000} 
+	.col p {padding-right:15px;}
+	
+	#footer {border-top:1px solid #ddd; clear:both; width:880px; margin:0 auto; padding:20px 0; text-align:right; font-size:11px;}
+	
+	table {border-top:1px solid #ccc; border-collapse:collapse}
+	td, th {text-align:left; border:1px solid #ccc; padding:10px;}
+	th {color:#000; background:#eee}
+	
+	#content ul {padding:0 0 0 13px; margin:8px 0 20px 0; list-style:square;}
+	#content li {margin:0 0 6px 0;}
+	
+	.colour_a {background:#669933}
+	.colour_b {background:#0099CC}
+	.colour_c {background:#8a66b5}
+
+	.l_case {text-transform:lowercase}
+	.s_case {text-transform:lowercase}
