@@ -36,7 +36,7 @@
 	
 	.col {float:left; width:208px; margin-left:20px; font-size:12px; line-height:17px;}
 	.nomargin {margin-left:0;}
-	.col h2 {margin:0; color:#fff; border-radius:0 0 20px 0; font-weight:normal; padding:7px 5px; font-size:14px; position:absolute; margin:-65px 0 0 3px; width:110px; height:34px;}
+	.col h2 {margin:0; color:#fff; border-radius:0 0 20px 0; font-weight:normal; padding:7px 5px; font-size:14px; position:absolute; margin:-65px 0 0 3px; width:128px; height:34px;}
 	.col h2 a {display:block; color:#fff;}
 	.col h2 a:hover {text-decoration:none;}
 	.col img {display:block; padding:3px; box-shadow:0 0 2px #888}
